@@ -18,3 +18,8 @@ p {
 	overflow-wrap: break-word;
 }
 
+.text-gradient {
+	background: linear-gradient(180deg, #FBB03B 0%, #FBB03B 20%, #34B27E 80%, #34B27E 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
