@@ -1,6 +1,4 @@
-// 今は使ってない
-
-const targetDate = new Date('2023-11-04T09:00:00');
+const targetDate = new Date('2023-11-04T24:00:00');
 
 function countdown() {
   const currentDate = new Date(); // 現在の日時を取得
